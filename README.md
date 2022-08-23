@@ -4,7 +4,7 @@ My scripts for some task
 
 Get-Router-Stats
 
-Scripts for periodic  get authenticated stats information from  WiFi Router TP-Link 740
+BASH Scripts for periodic get authenticated stats information from  WiFi Router TP-Link 740
 
 ```
 ./get-stat-inerf.sh
