@@ -1,2 +1,2 @@
 # usefull-scripts
-My scripts fot some task
+My scripts for some task
