@@ -1,7 +1,7 @@
 #Get-Router-Stats
 BASH Scripts for periodic collect staistic by traffic use.
 
-Get authenticated stats information from  WiFi Router TP-Link 740 with default user: admin, password: admin
+Get authenticated stats information from  WiFi Router TP-Link 740 (TL-WR740N) with default user: admin, password: admin
 
 Used parsing web interface output.
 
