@@ -1,10 +1,14 @@
-# usefull-scripts
-My scripts for some task
+#Get-Router-Stats
+BASH Scripts for periodic collect staistic by traffic use.
 
+Get authenticated stats information from  WiFi Router TP-Link 740 with default user: admin, password: admin
 
-Get-Router-Stats
+Used parsing web interface output.
 
-Scripts for periodic  get authenticated stats information from  WiFi Router TP-Link 740
+Results saved on same folder with script in plain TXT file.
+
+File `./get-stat-inerf.sh` use Intraface statistic on main page of web interface 
+
 
 ```
 ./get-stat-inerf.sh
@@ -25,6 +29,8 @@ TOTAL OUT:      1113780849B      1062M
 TOTAL TOT:      15328391670B     14618M          14G 0T
 ```
 
+
+File `./get-stat-user.sh` use enabled statictic per clients page
 ```
 ./get-stat-user.sh
 IN: [152219503]
